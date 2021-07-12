@@ -17,6 +17,12 @@ body {
     margin: 0;
 }
 
+@media (max-width: 600px) {
+    body {
+        margin-top: 20px;
+    }
+}
+
 h1 {
     /* font-weight: normal; */
     font-size: 4rem;
