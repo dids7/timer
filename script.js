@@ -3,7 +3,7 @@ const hoursEl = document.getElementById('hours');
 const minsEl = document.getElementById('mins');
 const secondsEl = document.getElementById('seconds');
 
-const vacations = '9 Ago 2021';
+const vacations = '9 Aug 2021';
 
 function countdown() {
     const vacationsDate = new Date(vacations);
